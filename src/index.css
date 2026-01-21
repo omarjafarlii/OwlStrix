@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+.wrapper {
+  width: 90%;
+}
+@media screen and (max-width: 992px) {
+  .wrapper {
+    width: 92%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .menu-width {
+    width: 80%;
+  }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #004F5E;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #3BD4F2;
+  border-radius: 10px;
+}
