@@ -1,4 +1,3 @@
-import React from 'react'
 import CardForTeam from '../../../Components/CardForTeam'
 import type { CardProps } from '../../AboutUs/components/WelcomeSection'
 import MichaelDoeLogo from "../../../assets/the-four-business-cyberix.webp";
