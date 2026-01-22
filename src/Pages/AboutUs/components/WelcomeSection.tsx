@@ -1,4 +1,3 @@
-import React from "react";
 import CarouselWelcome from "./CarouselWelcome";
 import InstallAppSection from "../../Home/components/InstallAppSection/InstallAppSection";
 import CardForTeam from "../../../Components/CardForTeam";

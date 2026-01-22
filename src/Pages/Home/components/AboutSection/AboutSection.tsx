@@ -1,4 +1,3 @@
-import React from "react";
 import CarouselAbout from "./CarouselAbout";
 import proactiveLogo from "../../../../assets/proactive.webp";
 import dataPrivacyLogo from "../../../../assets/data-privacywebp.webp";

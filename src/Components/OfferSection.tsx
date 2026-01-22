@@ -1,5 +1,3 @@
-import React from "react";
-
 const OfferSection = () => {
   return (
     <div className="bg-[radial-gradient(at_bottom_left,_#FFF9F900_0%,_#001D23_100%)] w-full border border-[#3BD4F21A] rounded-2xl p-10 lg:p-[60px] mt-20">

@@ -1,4 +1,3 @@
-import React from "react";
 import bgImage from "../../assets/man-woman-and-tablet-with-overlay-for-technology.webp";
 import HeroSection from "./components/HeroSection";
 import TeamSection from "./components/TeamSection";

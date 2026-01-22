@@ -1,4 +1,3 @@
-import React from "react";
 import securityLogo from "../../../../assets/security-icon-cyberix.webp";
 import securityBg from "../../../../assets/servicesCardBg.webp";
 import endpointLogo from "../../../../assets/laptop-icon-cyberix.webp";
@@ -11,7 +10,7 @@ import serverLogo from "../../../../assets/data-privacywebp.webp";
 import serverBg from "../../../../assets/servicesCardBg-4.webp";
 import CardServices from "../../../../Components/CardServices";
 
-const servicesCard = [
+export const servicesCard = [
   {
     id: 1,
     bgImage: securityBg,

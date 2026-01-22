@@ -1,4 +1,3 @@
-import React from "react";
 import cyberHygine from "../assets/young-professional-female-hacker-is-indoors-by-com-1024x576.webp";
 import servicecardBg from "../assets/servicesCardBg.webp";
 import { Link } from "react-router";

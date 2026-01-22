@@ -1,4 +1,3 @@
-import React from "react";
 import CardServices from "../../../Components/CardServices";
 import {servicesCard} from "../../Home/components/ServicesSection/ServicesSection"
 

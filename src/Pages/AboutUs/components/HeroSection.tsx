@@ -1,4 +1,3 @@
-import React from "react";
 import StaticsNumber from "./StaticsNumber";
 
 const HeroSection = () => {

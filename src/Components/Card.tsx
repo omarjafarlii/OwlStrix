@@ -1,5 +1,3 @@
-import React from "react";
-
 interface CardItem {
     id: number,
     logo: string,

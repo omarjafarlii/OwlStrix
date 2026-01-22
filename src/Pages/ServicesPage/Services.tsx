@@ -1,4 +1,3 @@
-import React from "react";
 import HeroSection from "./components/HeroSection";
 import bgImage from '../../assets/cyber-security-man-looking-at-computer-screen.webp'
 import ServicesCardSection from "./components/ServicesCardSection";

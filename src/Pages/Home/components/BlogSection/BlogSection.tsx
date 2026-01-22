@@ -1,4 +1,3 @@
-import React from "react";
 import CardBlog from "../../../../Components/CardBlog";
 
 const BlogSection = () => {

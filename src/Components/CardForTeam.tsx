@@ -1,4 +1,3 @@
-import React from "react";
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { Link } from "react-router";
 import type { CardProps } from "../Pages/AboutUs/components/WelcomeSection";

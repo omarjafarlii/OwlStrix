@@ -1,4 +1,3 @@
-import React from "react";
 import bgImage from "../../assets/digital-crime-by-an-anonymous-hacker.webp";
 import HeroSection from "./components/HeroSection";
 

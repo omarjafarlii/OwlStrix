@@ -1,10 +1,8 @@
-import React from "react";
 import HeroSection from "./components/HeroSection/HeroSection";
 import BgVideo from "./components/HeroSection/BgVideo";
 import AboutSection from "./components/AboutSection/AboutSection";
 import ServicesSection from "./components/ServicesSection/ServicesSection";
 import TestimonialsSection from "./components/TestimonialsSection/TestimonialsSection";
-import PricingSection from "./components/PricingSection/PricingSection";
 import InstallAppSection from "./components/InstallAppSection/InstallAppSection";
 import BlogSection from "./components/BlogSection/BlogSection";
 
@@ -17,7 +15,6 @@ const Home = () => {
         <AboutSection />
         <ServicesSection />
         <TestimonialsSection />
-        <PricingSection />
         <InstallAppSection />
         <BlogSection />
       </div>

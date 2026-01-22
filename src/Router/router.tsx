@@ -3,7 +3,6 @@ import PublicLayoutPage from "../Layouts/PublicLayoutPage";
 import Home from "../Pages/Home/Home";
 import AboutUs from "../Pages/AboutUs/AboutUs";
 import Services from "../Pages/ServicesPage/Services";
-import Pricing from "../Pages/Pricing/Pricing";
 import OurTeam from "../Pages/OurTeam/OurTeam";
 import Faq from "../Pages/FAQ/Faq";
 import ComingSoon from "../Pages/ComingSoon";
@@ -19,7 +18,6 @@ export const router = createBrowserRouter(
                 <Route path="/" element={<Home />} />,
                 <Route path="/about" element={<AboutUs />} />,
                 <Route path="/services" element={<Services />} />,
-                <Route path="/pricing" element={<Pricing />} />,
                 <Route path="/ourteam" element={<OurTeam />} />,
                 <Route path="/faq" element={<Faq />} />,
                 <Route path="/comingsoon" element={<ComingSoon />} />,

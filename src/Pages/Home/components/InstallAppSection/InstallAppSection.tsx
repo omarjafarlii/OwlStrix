@@ -1,4 +1,3 @@
-import React from "react";
 import playStore from "../../../../assets/Mobile-app-play-store-badge.webp";
 import AppStore from "../../../../assets/Mobile-app-store-badge.webp";
 import MobileApp from "../../../../assets/cyberix-mobile-apps-small.webp";

@@ -1,4 +1,3 @@
-import React from "react";
 import HeroSection from "./components/HeroSection";
 import bgImage from "../../assets/the-business-woman-works-with-graphics-on-a-sensor.webp";
 import WelcomeSection from "./components/WelcomeSection";
