@@ -1,5 +1,4 @@
 import React from "react";
-import CountUp from "./Counter";
 import StaticsNumber from "./StaticsNumber";
 
 const HeroSection = () => {

@@ -16,10 +16,6 @@ interface CarouselCardType {
     text: string
 }
 
-interface CardProps {
-    item: CarouselCardType
-}
-
 function CarouselTestimonials () {
   const settings = {
     infinite: true,
@@ -69,7 +65,7 @@ function CarouselTestimonials () {
   return (
     <div className="w-full mmin-w-0 overflow-hidden">
       <Slider {...settings}>
-        {testimonials.map(item => (
+        {testimonials.map((item: CarouselCardType) => (
             <div className="text-base">
           <div className="p-[25px] m-5 md:px-10 md:pt-10 md:pb-[15px] md:m-[30px] border border-[#FFFFFF1A] shadow-[0_0_20px_0_rgba(59,212,242,0.1)] rounded-2xl">
             <div className="flex items-start justify-between">

@@ -11,7 +11,7 @@ import serverLogo from "../../../../assets/data-privacywebp.webp";
 import serverBg from "../../../../assets/servicesCardBg-4.webp";
 import CardServices from "../../../../Components/CardServices";
 
-export const servicesCard = [
+const servicesCard = [
   {
     id: 1,
     bgImage: securityBg,

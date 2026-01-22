@@ -6,7 +6,6 @@ import securityBg from "../../../assets/servicesCardBg.webp";
 import endpointBg from "../../../assets/servicesCardBg-2.webp";
 import cloudBg from "../../../assets/servicesCardBg.webp";
 import dataBg from "../../../assets/servicesCardBg-3.webp";
-import serverBg from "../../../assets/servicesCardBg-4.webp";
 
 function CarouselWelcome() {
   const settings = {
